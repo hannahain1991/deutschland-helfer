@@ -103,6 +103,7 @@ select:hover{
 }
 
 .div-header{
+    width: 1327px;
     margin: 0px;
     height: 70px;
     display: flex;
