@@ -170,8 +170,7 @@ textarea::placeholder{
 }
 
 .child-2{
-    flex:2;
-
+    flex:1;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -179,10 +178,8 @@ textarea::placeholder{
 
 .city{
     width:100%;
-    max-width:520px;
+    max-width:420px;
     height:auto;
-
-    object-fit:contain;
 }
 
 .child-3{
@@ -190,9 +187,6 @@ textarea::placeholder{
     flex-shrink:0;
 }
 
-.child-3{
-    width: 270px;
-    flex-shrink: 0;
 
  #register-message{
     margin-top:15px;
@@ -200,7 +194,7 @@ textarea::placeholder{
     font-weight:bold;
     text-align:center;
 }
-}
+
 .search{
     background-color: #0f1f3a;
     color: black;
