@@ -39,6 +39,7 @@ img {
 }
 .div-header,
 .parent{
+    margin: 0 auto;
     max-width: 1327px;
 }
 
@@ -103,7 +104,8 @@ select:hover{
 }
 
 .div-header{
-    width: 1327px;
+    width: 100%;
+    max-width: 100$;
     margin: 0px;
     height: 70px;
     display: flex;
