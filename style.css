@@ -169,7 +169,7 @@ textarea::placeholder{
 .child-2{
     position: relative;
     top: -10px;
-    left: 50px;
+    left: 150px;
     transform: scale(1.4);
 }
 .city{
