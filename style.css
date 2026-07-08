@@ -178,7 +178,7 @@ textarea::placeholder{
 }
 
 .city{
-    width:900px;
+    width: 600px;;
     max-width:none;
     height:auto;
 }
