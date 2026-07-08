@@ -167,6 +167,7 @@ textarea::placeholder{
 
 .child-1{
     flex:1;
+    min-width: 300px;
 }
 
 .child-2{
@@ -178,12 +179,12 @@ textarea::placeholder{
 
 .city{
     width:100%;
-    max-width:420px;
+    max-width:330px;
     height:auto;
 }
 
 .child-3{
-    width:270px;
+    width:300px;
     flex-shrink:0;
 }
 
