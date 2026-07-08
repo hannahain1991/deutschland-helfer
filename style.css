@@ -159,10 +159,10 @@ textarea::placeholder{
     flex: 1;
 }
 .child-2{
-    flex: 2.2;
+    flex: 2;
     height: 430px;
     background-image: url(./images/cdb6966a-de0e-4587-8d13-00869f9c84f2.png);
-    background-size: contain;
+    background-size: 90%;
     background-position: center;
     background-repeat: no-repeat;
 }
