@@ -161,14 +161,15 @@ textarea::placeholder{
 .child-2{
     flex: 2;
     height: 430px;
+    margin-left: 25px;
     background-image: url(./images/cdb6966a-de0e-4587-8d13-00869f9c84f2.png);
-    background-size: 90%;
-    background-position: center;
+    background-size: 1010%;
+    background-position: center top;
     background-repeat: no-repeat;
 }
 
 .child-3{
-    width: 280px;
+    width: 270px;
     flex-shrink: 0;
 
  #register-message{
