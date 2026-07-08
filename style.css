@@ -159,8 +159,8 @@ textarea::placeholder{
     width: 35%;
 }
 .child-2{
-    width: 450px;
-    height: 320px;
+    width: 560px;
+    height: 390px;
     background-image: url(./images/cdb6966a-de0e-4587-8d13-00869f9c84f2.png);
     background-size: cover;
     background-position: center;
@@ -168,9 +168,8 @@ textarea::placeholder{
 }
 .child-2{
     position: relative;
-    top: -10px;
-    left: 0px;
-    transform: scale(1.4);
+    top: -20px;
+    left: 20px;
 }
 .city{
     width: 100%;
