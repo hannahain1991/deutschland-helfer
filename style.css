@@ -154,17 +154,40 @@ textarea::placeholder{
 .child-1{
     flex: 1;
 }
+
+.parent{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:40px;
+
+    padding:40px 30px;
+    background:#00102c;
+}
+
+.child-1{
+    flex:1;
+}
+
 .child-2{
-    flex: 2;
-    height: 430px;
-    margin-left: 25px;
-    background-image: url(./images/cdb6966a-de0e-4587-8d13-00869f9c84f2.png);
-    background-size: 101%;
-    background-position: center top;
-    background-repeat: no-repeat;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    flex:2;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.city{
+    width:100%;
+    max-width:520px;
+    height:auto;
+
+    object-fit:contain;
+}
+
+.child-3{
+    width:270px;
+    flex-shrink:0;
 }
 
 .child-3{
