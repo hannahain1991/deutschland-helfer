@@ -165,8 +165,8 @@ textarea::placeholder{
 }
 .child-2{
     position: relative;
-    top: -29px;
-    left: -33px;
+    top: -10px;
+    left: 0px;
     transform: scale(1.4);
 }
 .city{
